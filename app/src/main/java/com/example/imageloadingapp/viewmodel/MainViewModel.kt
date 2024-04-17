@@ -2,7 +2,7 @@ package com.example.imageloadingapp.viewmodel
 
 import com.example.imageloadingapp.data.api.ImageApi
 import com.example.imageloadingapp.data.model.response.ImageListResponse
-import com.example.imageloadingapp.repository.ImageRepository
+import com.example.imageloadingapp.data.repository.ImageRepository
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

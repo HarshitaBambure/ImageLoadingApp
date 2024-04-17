@@ -1,4 +1,4 @@
-package com.example.imageloadingapp.repository
+package com.example.imageloadingapp.data.repository
 
 import com.example.imageloadingapp.data.api.Constant
 import com.example.imageloadingapp.data.api.ImageApi

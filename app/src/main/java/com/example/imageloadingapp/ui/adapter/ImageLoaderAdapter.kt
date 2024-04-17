@@ -1,4 +1,4 @@
-package com.example.imageloadingapp.utils
+package com.example.imageloadingapp.ui.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

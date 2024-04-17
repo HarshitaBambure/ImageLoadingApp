@@ -1,9 +1,9 @@
-package com.example.imageloadingapp
+package com.example.imageloadingapp.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.imageloadingapp.databinding.ActivityMainBinding
-import com.example.imageloadingapp.utils.ImageLoaderAdapter
+import com.example.imageloadingapp.ui.adapter.ImageLoaderAdapter
 import android.view.View
 import android.widget.Toast
 import androidx.activity.viewModels
